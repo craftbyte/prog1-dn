@@ -1,0 +1,47 @@
+true
+82 | 14 | 12
+true
+82 | 12 | 12
+true
+75 | 11 | 11
+true
+72 | 10 | 11
+true
+69 | 8 | 11
+true
+65 | 7 | 10
+true
+64 | 5 | 10
+true
+59 | 5 | 10
+true
+50 | 5 | 9
+true
+47 | 4 | 9
+true
+43 | 3 | 8
+true
+41 | 1 | 8
+true
+34 | 0 | 7
+true
+29 | 0 | 6
+true
+28 | 0 | 5
+true
+27 | 0 | 1
+false
+27 | 0 | 1
+false
+27 | 0 | 1
+true
+23 | 0 | 1
+true
+16 | 0 | 1
+true
+13 | 0 | 1
+false
+13 | 0 | 1
+true
+6 | 0 | 0
+46

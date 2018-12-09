@@ -1,0 +1,38 @@
+true
+6 | 0 | 68
+true
+5 | 0 | 66
+true
+4 | 0 | 66
+true
+3 | 0 | 62
+true
+3 | 0 | 58
+true
+3 | 0 | 55
+true
+2 | 0 | 51
+true
+1 | 0 | 47
+true
+0 | 0 | 47
+true
+0 | 0 | 45
+true
+0 | 0 | 41
+true
+0 | 0 | 35
+true
+0 | 0 | 29
+true
+0 | 0 | 19
+true
+0 | 0 | 15
+true
+0 | 0 | 6
+false
+0 | 0 | 6
+true
+0 | 0 | 1
+false
+0 | 0 | 1

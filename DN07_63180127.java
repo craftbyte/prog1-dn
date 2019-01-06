@@ -8,7 +8,7 @@ public class DN07_63180127 {
 		int[] razdalje = fillUp(in, stPostaj - 1);
 		int stRazlicnih = in.nextInt();
 		int[][] razlicni = getTimes(in, stRazlicnih);
-		int celaPot = razdalje[0];
+		int celaPot = 0;
 		int[] brezZamika = new int[stPostaj];
 		int[] brezZamikb = new int[stPostaj];
 		int[] cakanje = new int[stPostaj];
@@ -24,7 +24,7 @@ public class DN07_63180127 {
 		}
 		int vsota = 0;
 		for (int[] start: razlicni) {
-			if (Math.abs(start[0]-start[1]) > celaPot) continue;
+			if (Math.abs(start[0]-start[1]) >= celaPot) continue;
 			int diferenca = start[1] - start[0];
 			int index = Arrays.binarySearch(cakanje, diferenca);
 			if (index >= 0) continue;
@@ -48,7 +48,7 @@ public class DN07_63180127 {
 			}
 		}
 		System.out.println(vsota);
-	}	
+	}
 
 	public static int[] fillUp(Scanner in, int n) {
 		int [] result = new int[n];
